@@ -1,3 +1,4 @@
 This is file TEST2
 Hi there feaureA branch
 NEw version in featureA branch
+testing the branch lock feature
