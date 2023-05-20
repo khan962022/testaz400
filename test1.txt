@@ -1,2 +1,2 @@
 This is file TEST1 and version 2 possibly
-Feature C branch here
+This is the merge commit
