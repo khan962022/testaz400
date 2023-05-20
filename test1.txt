@@ -1,2 +1,2 @@
 This is file TEST1 and version 2 possibly
-test1 updated in master branch
+This is the merge commit
