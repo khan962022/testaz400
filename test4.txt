@@ -1,11 +1,2 @@
 Hi there this is the new featuerA
-<<<<<<< HEAD
-<<<<<<< HEAD
-new version hi there of 
-=======
-Newer version
->>>>>>> 59126a96b03e44bf7e5d82730e9a9b8ab938172f
-New verion in master
-=======
-New local version
->>>>>>> featureA
+New link should be added to AZ boards
